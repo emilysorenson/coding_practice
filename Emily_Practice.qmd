@@ -29,3 +29,11 @@ library(librarian)
 treedata_YPE0 <- read_csv(here('data/YPE_Treedata_Plot_0.csv'))
 
 ```
+
+#Practice Michelle note
+
+```{r}
+#Learn how to insert a code chunk
+
+```
+
